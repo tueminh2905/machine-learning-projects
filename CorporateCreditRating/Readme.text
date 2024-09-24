@@ -1,0 +1,1 @@
+Created models (KNN, Random Forest) to predict corporate credit ratings. Achieved 91% recall for high-risk companies using feature selection and cross-validation.
